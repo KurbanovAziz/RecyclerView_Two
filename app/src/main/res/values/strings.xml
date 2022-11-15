@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">City RecyclerView</string>
+    <string name="city">City</string>
+</resources>
